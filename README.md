@@ -24,7 +24,7 @@ This repository contains a Python-based Discord bot that processes user messages
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/discord-bot.git
+   git clone https://github.com/sofe1204/chat_bot.git
    cd discord-bot
 2.Install dependencies:
   bash
